@@ -2,12 +2,11 @@
 
 <div align="center">
   <a href="https://github.com/leofraga93">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leofraga93&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofraga93&layout=compact&langs_count=7&theme=nord"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leofraga93&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofraga93&layout=compact&langs_count=7&theme=nord"/>
 </div>
-
-##
-<div>
+	
+<div style="display: inline_block">
   <h5>- 🔭 Trabalho atualmente com ...</h5>
     <img align="center" alt="Fraga-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Fraga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
