@@ -1,13 +1,12 @@
 ### Opa, Leo Fraga aqui! 👋
 
-<br>
 <div align="center">
   <a href="https://github.com/leofraga93">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leofraga93&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofraga93&layout=compact&langs_count=7&theme=nord"/>
 </div>
-<br>
-  
+
+##
 <div style="display: inline_block">
   <h5>- 🔭 Trabalho atualmente com ...</h5>
     <img align="center" alt="Fraga-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -40,7 +39,8 @@
   <a href="https://instagram.com/fragaleoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leonardo.fraga.2793@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/leofraga93/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+</div>
+	
 ##
 ### “Não é a linguagem de programação que define o programador, mas sim sua lógica.”
 _– David Ribeiro Guilherme_
