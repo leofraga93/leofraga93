@@ -14,7 +14,7 @@
     <img align="center" alt="Fraga-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
 
-<div style="display: inline_block">
+<div>
   <h5>- 🌱 Estou aprendendo ...</h5>
     <img align="center" alt="Fraga-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Fraga-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
