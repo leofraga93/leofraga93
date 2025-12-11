@@ -38,22 +38,22 @@
 	<img align="center" alt="Illustrator Logo" src="https://aleen42.github.io/badges/src/illustrator.svg" title="ILLUSTRATOR">
 </div><br>
 
-<div style="display: inline_block">
+<div style="display: flex; gap: 100px; flex-weap: wrap; align-items: center;">
 	<h5> 📲 Entre em contato através ...</h5>
-	<a href="https://twitter.com/2793Fraga" target="_blank" style="text-decoration: none;">
+	<a href="https://twitter.com/2793Fraga" target="_blank">
   		<img src="https://img.shields.io/badge/-%20(formerly%20Twitter)-%23333?style=for-the-badge&logo=X&logoColor=white">
 	</a>
-	<a href="https://instagram.com/fragaleoo" target="_blank" style="text-decoration: none;">
+	<a href="https://instagram.com/cole.leo_" target="_blank">
 		<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 	</a>
-	<a href = "mailto:leonardo.fraga.2793@outlook.com" style="text-decoration: none;">
-		<img src="https://img.shields.io/badge/-eMail-%2333FF?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+	<a href = "mailto:leonardo.fraga.2793@outlook.com" target="_blank">
+		<img src="https://img.shields.io/badge/-eMail-%2333FF?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
-	<a href="https://linkedin.com/in/leofraga93/" target="_blank" style="text-decoration: none;">
-		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+	<a href="https://linkedin.com/in/leofraga93/" target="_blank">
+		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
-	<a href="https://discord.gg/lleo93#6508" target="_blank" style="text-decoration: none;">
-		<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+	<a href="https://discord.gg/lleo93#6508" target="_blank">
+		<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 	</a>
 </div>
 
