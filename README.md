@@ -47,7 +47,7 @@
 
 <h3 align="center">🧠 Soft Skills:</h3>
 <p align="center">
-  <b>Requisitos e Negócio</b> | <!--<b>Testes Automatizados (JUnit)</b> |--> <b>Agile (Scrum)</b> | <b>Prompt Engineering</b> | Language English (Basic/A1 - Progressing with <b>Anki</b> and <b>Duolingo: Score 26</b>)
+  <b>Requisitos e Negócio</b> | <!--<b>Testes Automatizados (JUnit)</b> |--> <b>Agile (Scrum)</b> | <b>Prompt Engineering</b> | Language English (Basic/A1 - Progressing with <b>Anki</b> and <b>Duolingo: Score 28</b>)
 </p>
 
 <br>
